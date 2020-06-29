@@ -1,5 +1,7 @@
 # ulib
 
+Разработка 2009 года. Не поддерживается. 
+
 https://forum.unity.com/threads/ulib.82217/
 
 https://youtu.be/f4ycWjMxcDE
